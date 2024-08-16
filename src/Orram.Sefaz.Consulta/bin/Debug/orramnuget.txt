@@ -1,0 +1,1 @@
+dotnet nuget push -s https://orramnuget.orram.com.br/v3/index.json -k b3JyYW06MHJyYW1AMjAyMw== Orram.Sefaz.Consulta.1.0.9.nupkg

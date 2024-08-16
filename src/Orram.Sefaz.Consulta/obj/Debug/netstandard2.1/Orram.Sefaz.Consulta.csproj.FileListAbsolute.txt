@@ -1,0 +1,10 @@
+C:\Users\rafael.corazzi\OneDrive - ORRAM\Documentos\Projetos\Orram\dev\orram.sefaz.consulta\src\Orram.Sefaz.Consulta\bin\Debug\netstandard2.1\Orram.Sefaz.Consulta.deps.json
+C:\Users\rafael.corazzi\OneDrive - ORRAM\Documentos\Projetos\Orram\dev\orram.sefaz.consulta\src\Orram.Sefaz.Consulta\bin\Debug\netstandard2.1\Orram.Sefaz.Consulta.dll
+C:\Users\rafael.corazzi\OneDrive - ORRAM\Documentos\Projetos\Orram\dev\orram.sefaz.consulta\src\Orram.Sefaz.Consulta\bin\Debug\netstandard2.1\Orram.Sefaz.Consulta.pdb
+C:\Users\rafael.corazzi\OneDrive - ORRAM\Documentos\Projetos\Orram\dev\orram.sefaz.consulta\src\Orram.Sefaz.Consulta\obj\Debug\netstandard2.1\Orram.Sefaz.Consulta.csproj.AssemblyReference.cache
+C:\Users\rafael.corazzi\OneDrive - ORRAM\Documentos\Projetos\Orram\dev\orram.sefaz.consulta\src\Orram.Sefaz.Consulta\obj\Debug\netstandard2.1\Orram.Sefaz.Consulta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.corazzi\OneDrive - ORRAM\Documentos\Projetos\Orram\dev\orram.sefaz.consulta\src\Orram.Sefaz.Consulta\obj\Debug\netstandard2.1\Orram.Sefaz.Consulta.AssemblyInfoInputs.cache
+C:\Users\rafael.corazzi\OneDrive - ORRAM\Documentos\Projetos\Orram\dev\orram.sefaz.consulta\src\Orram.Sefaz.Consulta\obj\Debug\netstandard2.1\Orram.Sefaz.Consulta.AssemblyInfo.cs
+C:\Users\rafael.corazzi\OneDrive - ORRAM\Documentos\Projetos\Orram\dev\orram.sefaz.consulta\src\Orram.Sefaz.Consulta\obj\Debug\netstandard2.1\Orram.Sefaz.Consulta.csproj.CoreCompileInputs.cache
+C:\Users\rafael.corazzi\OneDrive - ORRAM\Documentos\Projetos\Orram\dev\orram.sefaz.consulta\src\Orram.Sefaz.Consulta\obj\Debug\netstandard2.1\Orram.Sefaz.Consulta.dll
+C:\Users\rafael.corazzi\OneDrive - ORRAM\Documentos\Projetos\Orram\dev\orram.sefaz.consulta\src\Orram.Sefaz.Consulta\obj\Debug\netstandard2.1\Orram.Sefaz.Consulta.pdb
